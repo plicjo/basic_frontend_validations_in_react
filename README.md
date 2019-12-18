@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Basic Frontend Validations in React
+
+Frontend validations provide 2 significant bits of value to a software project.
+
+* Immediate feedback when the data necessary is not correct.
+* Reduction of backend API calls, reducing server load.
+
+You can find the final form of this project here.
+
+## Exercises
+
+Display an error on the form if the user fails to supply some data.
+
+1. Require the Name, Email, Password, and Password Confirmation fields.
+2. Require that the passwords match.
+3. Require that the person's name has a minimum of 3 characters.
 
 ## Available Scripts
 
